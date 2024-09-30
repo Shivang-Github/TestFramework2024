@@ -11,7 +11,7 @@ public class AppConstants {
 	
 	public static final String App_Long_Time="10";
 	public static final String App_Short_Time="5";
-	public static final String App_Time="";
+	public static final String App_Time="25";
 	
 	
 	

@@ -1,5 +1,21 @@
 package com.qa.opencart.tests;
 
-public class AccountsPageTest {
+import org.testng.annotations.Test;
 
+public class AccountsPageTest {
+	
+
+	
+	@Test
+	public void userRegistraton() {
+		
+		
+		
+	}
+	
+	
+	
 }
+
+
+

@@ -10,7 +10,7 @@ public class AccountsPageTest {
 	public void userRegistraton() {
 		
 		
-		
+		int i =10;
 	}
 	
 	
